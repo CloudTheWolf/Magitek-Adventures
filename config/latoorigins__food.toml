@@ -1,0 +1,4116 @@
+[[cobblestonian_food]]
+itemId = "minecraft:cobblestone"
+hungerShanks = 5
+saturation = 6.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:cobblestone_slab"
+hungerShanks = 2
+saturation = 3.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:cobblestone_stairs"
+hungerShanks = 3
+saturation = 4.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:cobblestone_wall"
+hungerShanks = 5
+saturation = 6.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:coal_ore"
+hungerShanks = 10
+saturation = 12.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:iron_ore"
+hungerShanks = 15
+saturation = 18.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:redstone_ore"
+hungerShanks = 15
+saturation = 18.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:lapis_ore"
+hungerShanks = 15
+saturation = 18.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:gold_ore"
+hungerShanks = 20
+saturation = 24.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:diamond_ore"
+hungerShanks = 25
+saturation = 30.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:emerald_ore"
+hungerShanks = 30
+saturation = 36.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:stone"
+hungerShanks = 6
+saturation = 7.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:diorite"
+hungerShanks = 5
+saturation = 6.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:granite"
+hungerShanks = 5
+saturation = 6.0
+
+[[cobblestonian_food]]
+itemId = "minecraft:andesite"
+hungerShanks = 5
+saturation = 6.0
+[[iron_golem_food]]
+itemId = "minecraft:iron_bars"
+hungerShanks = 25
+saturation = 30.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_block"
+hungerShanks = 45
+saturation = 54.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_door"
+hungerShanks = 30
+saturation = 36.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_horse_armor"
+hungerShanks = 30
+saturation = 36.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_ingot"
+hungerShanks = 5
+saturation = 6.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_nugget"
+hungerShanks = 1
+saturation = 0.666
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_pickaxe"
+hungerShanks = 15
+saturation = 18.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_sword"
+hungerShanks = 10
+saturation = 12.0
+
+[[iron_golem_food]]
+itemId = "minecraft:iron_trapdoor"
+hungerShanks = 30
+saturation = 36.0
+[[nukelian_food]]
+itemId = "minecraft:redstone"
+hungerShanks = 2
+saturation = 3.0
+[[trashling_food]]
+itemId = "minecraft:air"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_granite"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_diorite"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_andesite"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:grass_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dirt"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:coarse_dirt"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:podzol"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_sapling"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_sapling"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_sapling"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_sapling"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_sapling"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_sapling"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bedrock"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sand"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_sand"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gravel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_oak_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_spruce_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_birch_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_jungle_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_acacia_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_dark_oak_log"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_oak_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_spruce_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_birch_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_jungle_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_acacia_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_dark_oak_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_wood"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_leaves"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_leaves"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_leaves"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_leaves"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_leaves"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_leaves"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sponge"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wet_sponge"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lapis_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dispenser"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chiseled_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cut_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:note_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:powered_rail"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:detector_rail"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sticky_piston"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cobweb"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sea_pickle"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:piston"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_wool"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dandelion"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:poppy"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_orchid"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:allium"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:azure_bluet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_tulip"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_tulip"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_tulip"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_tulip"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oxeye_daisy"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_mushroom"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_mushroom"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gold_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sandstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:petrified_oak_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:quartz_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_sandstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purpur_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_prismarine_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_quartz"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_red_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_stone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tnt"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bookshelf"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_cobblestone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:obsidian"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:torch"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_rod"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chorus_plant"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chorus_flower"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purpur_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purpur_pillar"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purpur_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spawner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chest"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crafting_table"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:farmland"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:furnace"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:ladder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:rail"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lever"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:redstone_torch"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:snow"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:ice"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:snow_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cactus"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:clay"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jukebox"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pumpkin"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:carved_pumpkin"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherrack"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:soul_sand"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:glowstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jack_o_lantern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_stone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cracked_stone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chiseled_stone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_mushroom_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_mushroom_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mushroom_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:melon"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:vine"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mycelium"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_brick_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:enchanting_table"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_portal_frame"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_stone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_stone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:redstone_lamp"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sandstone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:ender_chest"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tripwire_hook"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:emerald_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:command_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:beacon"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_cobblestone_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:anvil"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chipped_anvil"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:damaged_anvil"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:trapped_chest"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_weighted_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:heavy_weighted_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:daylight_detector"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:redstone_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_quartz_ore"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:hopper"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chiseled_quartz_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:quartz_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:quartz_pillar"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:quartz_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:activator_rail"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dropper"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:barrier"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:hay_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_carpet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:coal_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:packed_ice"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:slime_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:grass_path"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sunflower"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lilac"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:rose_bush"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:peony"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_stained_glass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_stained_glass_pane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_prismarine"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_prismarine_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sea_lantern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chiseled_red_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cut_red_sandstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_sandstone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:repeating_command_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chain_command_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magma_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_wart_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_nether_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bone_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:structure_void"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:observer"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_shulker_box"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_glazed_terracotta"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_concrete"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_concrete_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:turtle_egg"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_tube_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_brain_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_bubble_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_fire_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_horn_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tube_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brain_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bubble_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fire_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:horn_coral_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tube_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brain_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bubble_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fire_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:horn_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_brain_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_bubble_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_fire_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_horn_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_tube_coral"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tube_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brain_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bubble_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fire_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:horn_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_tube_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_brain_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_bubble_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_fire_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dead_horn_coral_fan"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_ice"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:conduit"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:repeater"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:comparator"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:turtle_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:scute"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_shovel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_axe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:flint_and_steel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:arrow"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:coal"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:charcoal"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gold_ingot"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wooden_sword"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wooden_shovel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wooden_pickaxe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wooden_axe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_sword"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_shovel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_pickaxe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_axe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_sword"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_shovel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_pickaxe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_axe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stick"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bowl"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_sword"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_shovel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_pickaxe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_axe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:string"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:feather"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gunpowder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wooden_hoe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_hoe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_hoe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_hoe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_hoe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wheat_seeds"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wheat"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:leather_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:leather_chestplate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:leather_leggings"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:leather_boots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chainmail_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chainmail_chestplate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chainmail_leggings"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chainmail_boots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_chestplate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_leggings"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:iron_boots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_chestplate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_leggings"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_boots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_chestplate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_leggings"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_boots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:flint"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:painting"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:saddle"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:leather"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brick"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:clay_ball"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sugar_cane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:kelp"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dried_kelp_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:paper"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:book"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:slime_ball"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:compass"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:clock"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:glowstone_dust"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:ink_sac"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:rose_red"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cactus_green"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cocoa_beans"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lapis_lazuli"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dandelion_yellow"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_dye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bone_meal"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sugar"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_bed"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:filled_map"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:shears"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pumpkin_seeds"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:melon_seeds"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blaze_rod"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:ghast_tear"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gold_nugget"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_wart"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:glass_bottle"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fermented_spider_eye"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blaze_powder"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magma_cream"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brewing_stand"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cauldron"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:glistering_melon_slice"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fire_charge"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:emerald"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:item_frame"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:flower_pot"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:skeleton_skull"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wither_skeleton_skull"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:player_head"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:zombie_head"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:creeper_head"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dragon_head"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:carrot_on_a_stick"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_star"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:firework_star"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:enchanted_book"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_brick"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:quartz"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_shard"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_crystals"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:rabbit_foot"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:rabbit_hide"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:armor_stand"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:golden_horse_armor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diamond_horse_armor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lead"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:name_tag"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:white_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:orange_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:magenta_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_blue_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:yellow_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lime_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pink_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gray_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:light_gray_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cyan_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:purple_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blue_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brown_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:green_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:black_banner"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:beetroot_seeds"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dragon_breath"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spectral_arrow"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tipped_arrow"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:shulker_shell"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:knowledge_book"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:phantom_membrane"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nautilus_shell"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:heart_of_the_sea"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:water"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lava"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:piston_head"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:moving_piston"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wall_torch"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fire"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wall_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_portal"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:attached_pumpkin_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:attached_melon_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:pumpkin_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:melon_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_portal"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cocoa"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:tripwire"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:frosted_ice"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:void_air"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cave_air"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cornflower"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lily_of_the_valley"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:wither_rose"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_stone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cut_sandstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cut_red_sandstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:prismarine_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_sandstone_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_stone_brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:granite_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:andesite_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_nether_brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:sandstone_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_stone_brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diorite_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_granite_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_red_sandstone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_stone_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_diorite_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_cobblestone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_stone_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_sandstone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_quartz_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:granite_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:andesite_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_nether_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_andesite_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diorite_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_granite_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_red_sandstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_stone_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_diorite_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mossy_cobblestone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:end_stone_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_sandstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smooth_quartz_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:granite_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:andesite_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:red_nether_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_andesite_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:diorite_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:scaffolding"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:composter"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:oak_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:spruce_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:birch_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:jungle_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:acacia_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:dark_oak_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bamboo"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:leather_horse_armor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:loom"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:flower_banner_pattern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:creeper_banner_pattern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:skull_banner_pattern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:mojang_banner_pattern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:globe_banner_pattern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:barrel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smoker"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blast_furnace"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cartography_table"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:fletching_table"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:grindstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lectern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:smithing_table"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stonecutter"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bell"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lantern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:campfire"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:honeycomb"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:bee_nest"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:beehive"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:honey_bottle"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:honey_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:honeycomb_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_nylium"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_nylium"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_planks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_gold_ore"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_crimson_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_warped_stem"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_crimson_hyphae"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:stripped_warped_hyphae"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_hyphae"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_hyphae"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_fungus"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_fungus"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_roots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_roots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:nether_sprouts"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:weeping_vines"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:twisting_vines"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_pressure_plate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_fence"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:soul_soil"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:basalt"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_basalt"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:soul_torch"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_trapdoor"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chain"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_fence_gate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cracked_nether_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chiseled_nether_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blackstone_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_brick_wall"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_button"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:quartz_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_wart_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_door"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_ingot"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_scrap"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_sword"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_shovel"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_pickaxe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_axe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_hoe"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_helmet"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_chestplate"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_leggings"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_boots"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crimson_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_sign"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:warped_fungus_on_a_stick"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:piglin_banner_pattern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:soul_lantern"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:soul_campfire"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:shroomlight"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:lodestone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:netherite_block"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:ancient_debris"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:target"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:crying_obsidian"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blackstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blackstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:blackstone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:gilded_blackstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:chiseled_polished_blackstone"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_brick_slab"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:polished_blackstone_brick_stairs"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:cracked_polished_blackstone_bricks"
+hungerShanks = 1
+saturation = 1.5
+
+[[trashling_food]]
+itemId = "minecraft:respawn_anchor"
+hungerShanks = 1
+saturation = 1.5

@@ -1,0 +1,10 @@
+generateOres = true
+blacklistedOres = []
+spawnWithGuideBook = true
+respawnWithGuideBook = true
+disableFuelTooltips = false
+disableItemTagTooltips = false
+enableEasyMode = true
+newVersionMessage = true
+steamDrillFuelUseFactor = 5
+steamDrillWaterUseFactor = 5

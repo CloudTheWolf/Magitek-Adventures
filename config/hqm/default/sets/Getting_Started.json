@@ -1,0 +1,218 @@
+{
+  "name": "Getting Started",
+  "quests": [
+    {
+      "uuid": "5f80c823-69af-41f9-a15a-16ff7c9f6adf",
+      "name": "Welcome",
+      "description": "Your quest starts here!",
+      "x": 37,
+      "y": 13,
+      "icon": {
+        "id": "hardcorequesting:quest_book",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "hardcorequesting:quest_book",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:bread",
+          "Count": 5
+        },
+        {
+          "id": "minecraft:potion",
+          "tag": {
+            "Potion": "minecraft:purified_water"
+          },
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5d35fe7c-7153-4688-b8da-aea9cd9407f0",
+      "name": "My First Tool!",
+      "description": "Make a tool using Flint and Sticks",
+      "x": 71,
+      "y": 65,
+      "icon": {
+        "id": "earlygame:flint_knife",
+        "tag": {
+          "Damage": 0
+        },
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Make a Flint Knife",
+          "longDescription": "     ",
+          "items": [
+            {
+              "item": {
+                "id": "earlygame:flint_knife",
+                "tag": {
+                  "Damage": 0
+                },
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "74617ef4-f3c3-4d6a-b66f-65a5a2f832f4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "earlygame:flint_knife",
+          "tag": {
+            "Damage": 0
+          },
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "74617ef4-f3c3-4d6a-b66f-65a5a2f832f4",
+      "name": "It all starts with flint",
+      "description": "Punching trees hurts, but you need to make tools somehow. Find some Flint and Sticks to begin your adventure!",
+      "x": 37,
+      "y": 42,
+      "icon": {
+        "id": "minecraft:flint",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Find Flint and Sticks",
+          "longDescription": "Find Flint and Sticks",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:flint",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:stick",
+                "Count": 1
+              },
+              "required": 5
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "74617ef4-f3c3-4d6a-b66f-65a5a2f832f4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "earlygame:flint_shard",
+          "Count": 5
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "67db24d4-1968-4777-b4d6-a8ae78221e20",
+      "name": "Something to tie it all together.",
+      "description": "Find something to tie flint with sticks to make better tools",
+      "x": 115,
+      "y": 114,
+      "icon": {
+        "id": "earlygame:lashing",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Make some lashings",
+          "items": [
+            {
+              "item": {
+                "id": "earlygame:lashing",
+                "Count": 1
+              },
+              "required": 3
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "5d35fe7c-7153-4688-b8da-aea9cd9407f0"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:potion",
+          "tag": {
+            "Potion": "minecraft:purified_water"
+          },
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a7137313-d8ab-47db-9e4b-40fff80f05c6",
+      "name": "Make it sharp",
+      "description": "Hit your flint on top of something hard to make it sharp.",
+      "x": 37,
+      "y": 83,
+      "icon": {
+        "id": "earlygame:flint_shard",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Flint Shards",
+          "items": [
+            {
+              "item": {
+                "id": "earlygame:flint_shard",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "74617ef4-f3c3-4d6a-b66f-65a5a2f832f4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "earlygame:flint_shard",
+          "Count": 3
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "Getting Started"
+}

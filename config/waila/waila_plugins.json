@@ -1,0 +1,8 @@
+{
+  "minecraft": {
+    "override.infested": true,
+    "override.trapped_chest": true,
+    "override.powder_snow": true,
+    "pet.owner": true
+  }
+}
