@@ -10,6 +10,11 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
+**Version**
+Pack: Forge/Fabic (Delete as required)
+Type: Client/Server  (Delete as required)
+Pack Version: 
+
 **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
