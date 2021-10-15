@@ -1,0 +1,58 @@
+# Internal use only. Editing this line will wipe your config!
+version = "2"
+
+[features]
+	# Display your current network location as your Discord rich presence.
+	"Rich Presence" = true
+	# Used by OE to tell certain features where you are. Disabling this may cause some features to not function fully or just not work.
+	"Location Tracker" = true
+
+[enhancements]
+	# Interpolate frames between armor stand poses.
+	"Armor Stand Interpolation" = true
+	# Fixes issues with custom blocks.
+	# - Foliage no longer renders incorrectly.
+	# - Improved right clicking on blocks. (removed swing animation and improved placement on custom blocks)
+	# - Arm swing when right clicking an empty planter box with an empty hand on the top.
+	"Block Enhancements" = true
+	# Improves auto completion for emojis and pings.
+	# - Emojis no longer initially show up when attempting to auto complete player names and only show when entering ':'.
+	# - Adds auto completion for pings.
+	"Better Auto Completion" = true
+	# Improves how cosmetics look.
+	# - Natively renders back swags on your player.
+	# - Adds a back swag slot to your inventory. ()
+	# - Hides props in first person.
+	# - Hides back cosmetics from rendering in first person.
+	"Cosmetic Enhancements" = true
+	# Enables minor tweaks to improve cutscenes.
+	# - Forces FOV to 70 for better control on the server side
+	# - Locks mouse in place to prevent moving during cutscenes.
+	"Cutscene Enhancements" = true
+	# Prevent advancements, recipe and tutorial messages from displaying on Origin Realms.
+	"Disable Toasts" = true
+	# Prevent models from cutting off by expanding their bounding boxes.
+	"Expand Model Bounding Box" = true
+	# When in F1 mode, hide names for cleaner screenshots.
+	"Hide Names" = true
+	# Improves custom items.
+	# - Replaces item id with the Origin Realms item id when hidden tooltips is enabled
+	"Item Enhancements" = true
+	# Patches issues on mods which affect Origin Realms
+	# - Sodium Issue #68
+	"Mod Patches" = true
+	# Removes emojis and NPCs from the social interaction menu.
+	"Social Menu Filter" = true
+
+[utilities]
+	# Block chat messages that may appear as advertising.
+	"Anti Advertise Filter" = false
+	# Play a ping noise when your auction item is sold.
+	"Auction Ping" = true
+	# Send a notification on startup when a new update is available.
+	"Update Notification" = true
+	# Get an alert when your inventory has been filled.
+	"Inventory Full Alert" = false
+	# Send notifications when shops restock. (Jacko only)
+	"Restock Notification" = true
+
