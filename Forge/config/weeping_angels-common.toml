@@ -20,7 +20,7 @@
 	#Range: 1 ~ 100
 	spawnWeight = 5
 	#Angel spawn type
-	#Allowed Values: MONSTER, CREATURE, AMBIENT, WATER_CREATURE, WATER_AMBIENT, MISC
+	#Allowed Values: MONSTER, CREATURE, AMBIENT, WATER_CREATURE, WATER_AMBIENT, MISC, IE_CREATURE, underground_water_creature
 	spawnType = "MONSTER"
 	#Note: A list of biomes where angels should spawn.
 	allowedBiomes = ["minecraft:taiga_hills", "minecraft:taiga", "minecraft:desert", "minecraft:desert_hills", "minecraft:plains", "minecraft:swamp", "minecraft:beach", "minecraft:snowy_taiga"]

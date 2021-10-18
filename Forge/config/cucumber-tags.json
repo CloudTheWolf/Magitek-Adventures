@@ -26,7 +26,7 @@
   "forge:gems/ruby": "moremekanismprocessing:gem_ruby",
   "forge:dusts/niter": "moremekanismprocessing:dust_niter",
   "forge:ingots/chrome": "null",
-  "forge:ingots/brass": "null",
+  "forge:ingots/brass": "create:brass_ingot",
   "forge:ingots/enderium": "thermal:enderium_ingot",
   "forge:ingots/titanium": "moremekanismprocessing:titanium_ingot",
   "forge:rubber": "null",
