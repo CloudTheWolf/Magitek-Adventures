@@ -11,8 +11,8 @@ assignees: ''
 A clear and concise description of what the bug is.
 
 **Version**
-Pack: Forge/Fabic (Delete as required)
-Type: Client/Server  (Delete as required)
+Pack: Forge/Fabic
+Type: Client/Server
 Pack Version: 
 
 **To Reproduce**
